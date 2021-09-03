@@ -5,4 +5,4 @@ Repositorio Git del grupo 4, perteneciente al grupo 33 de misión tic 2022
 # Daniel Santiago Carreño Briceño
 # Sara Ximena Basto Hernandez 
 # Christian Vanegas Echavarria
-Bienvenidos subGrupo 4
+
