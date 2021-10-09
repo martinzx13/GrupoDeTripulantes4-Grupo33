@@ -1,6 +1,66 @@
 <template>
 <BasicLayouts>
-
+<br>
+<h1>Conoce nuestro equipo de trabajo</h1>
+<h1>Team</h1>
+<br>
+<div class="ui link cards">
+  <div class="card">
+    <div class="image">
+      <img src="../assets/SaraXimenaBastoHernandez.jpeg">
+    </div>
+    <div class="content">
+      <div class="header">Sara Ximena Basto Hernandez</div>
+      <div class="meta">
+        <a>Member team</a>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="image">
+      <img src="../assets/logo.png">
+    </div>
+    <div class="content">
+      <div class="header">Juan Pablo Martinez Aldana </div>
+      <div class="meta">
+        <a>Member team</a>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="image">
+      <img src="../assets/FredAcostaEcheverria.jpeg">
+    </div>
+    <div class="content">
+      <div class="header">Fred Acosta Echeverria</div>
+      <div class="meta">
+        <a>Member team</a>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="image">
+      <img src="../assets/DanielSantiagoCarreñoBriceño.jpeg">
+    </div>
+    <div class="content">
+      <div class="header">Daniel Santiago Carreño Briceño</div>
+      <div class="meta">
+        <a>Member team</a>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="image">
+      <img src="../assets/ChristianVanegasEchavarria.jpg">
+    </div>
+    <div class="content">
+      <div class="header">Christian Vanegas Echavarría</div>
+      <div class="meta">
+        <a>Member team</a>
+      </div>
+    </div>
+  </div>
+</div>
 </BasicLayouts>
 </template>
 
@@ -16,4 +76,10 @@ export default {
 </script>
 
 <style>
+
+h1{
+  text-align: center;
+  color:#3386FF ;
+}
+
 </style>

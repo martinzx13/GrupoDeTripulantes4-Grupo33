@@ -1,6 +1,10 @@
 <template>
   <BasicLayouts>
-    <h1>Últimos productos</h1>
+    <br>
+    <h1>Encuentra aquí el producto que necesitas para el cuidado y recuperación de tu salud</h1>
+    <br>
+    <br>
+    <br>
     <div class="ui grid">
       <div
         class="sixten wide mobile eight wide tablet four wide computer column"
