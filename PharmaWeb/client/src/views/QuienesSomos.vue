@@ -18,10 +18,10 @@
   </div>
   <div class="card">
     <div class="image">
-      <img src="../assets/logo.png">
+      <img src="../assets/team/JuanPabloMartinezAldana.jpg">
     </div>
     <div class="content">
-      <div class="header">Juan Pablo Martinez Aldana </div>
+      <div class="header">Juan Pablo Martinez Aldana</div>
       <div class="meta">
         <a>Member team</a>
       </div>
