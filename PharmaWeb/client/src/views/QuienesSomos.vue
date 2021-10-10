@@ -7,7 +7,7 @@
 <div class="ui link cards">
   <div class="card">
     <div class="image">
-      <img src="../assets/SaraXimenaBastoHernandez.jpeg">
+      <img src="../assets/team/SaraXimenaBastoHernandez.jpg">
     </div>
     <div class="content">
       <div class="header">Sara Ximena Basto Hernandez</div>
@@ -29,7 +29,7 @@
   </div>
   <div class="card">
     <div class="image">
-      <img src="../assets/FredAcostaEcheverria.jpeg">
+      <img src="../assets/team/FredAcostaEcheverria.jpg">
     </div>
     <div class="content">
       <div class="header">Fred Acosta Echeverria</div>
@@ -40,7 +40,7 @@
   </div>
   <div class="card">
     <div class="image">
-      <img src="../assets/DanielSantiagoCarreñoBriceño.jpeg">
+      <img src="../assets/team/DanielSantiagoCarreñoBriceño.jpg">
     </div>
     <div class="content">
       <div class="header">Daniel Santiago Carreño Briceño</div>
@@ -51,7 +51,7 @@
   </div>
   <div class="card">
     <div class="image">
-      <img src="../assets/ChristianVanegasEchavarria.jpg">
+      <img src="../assets/team/ChristianVanegasEchavarria.jpg">
     </div>
     <div class="content">
       <div class="header">Christian Vanegas Echavarría</div>
